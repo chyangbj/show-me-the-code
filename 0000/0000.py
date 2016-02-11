@@ -12,3 +12,4 @@ draw = ImageDraw.Draw(im)
 draw.text((x-20,5),text,fill,font)
 
 im.save('2.jpg')
+
